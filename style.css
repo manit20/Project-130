@@ -1,0 +1,30 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+#song_name_div{
+    width: 25%;
+    background-color: hotpink;
+}
+#song_name_heading{
+    color: black;
+}
+#song_name_name{
+    color: blue;
+}
+
+canvas{
+    border: solid 5px white;
+    border-radius: 25px;
+}
